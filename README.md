@@ -1,10 +1,4 @@
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <img src="preview.jpg" width="100%" height="220px" />
-    </td>
-  </tr>
-</table>
+<img src="preview.jpg" width="100%">
 
 <h1 align="center">💫 About Me</h1>
 
