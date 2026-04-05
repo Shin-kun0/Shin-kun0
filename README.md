@@ -8,15 +8,13 @@ Currently developing a job application tracker to expand my technical portfolio.
 Actively exploring AI-assisted development (vibe coding, Claude Code prompting)
 and interested in embedded systems & IoT technologies.
 
----
-
 ## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,nodejs,express,nextjs,tailwind&perline=9)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,docker,github,githubactions,postman&perline=9)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,cloudflare,electron,vscode,linux,arduino&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,cloudflare,electron,vscode,linux&perline=9)](https://skillicons.dev)
 
 ---
 
