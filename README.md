@@ -3,8 +3,6 @@
 ## Me
 
 I'm a third-year Software Engineering student at Ostim Technical University,
-passionate about building practical, user-focused applications.
-Currently developing a job application tracker to expand my technical portfolio.
 Actively exploring AI-assisted development (vibe coding, Claude Code prompting)
 and interested in embedded systems & IoT technologies.
 
