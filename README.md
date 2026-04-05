@@ -1,4 +1,4 @@
-![image](https://github.com/Shin-kun0/Shin-kun0/blob/cbc4c17e56a6c8d9313c98d0db42d1ac5aefa890/preview.png)
+![image](https://github.com/Shin-kun0/Shin-kun0/blob/11b013da0a405d5adc9586cf9a46947b0b83a037/preview.jpg)
 # 💫 About Me:
 "I am a third-year Software Engineering student at Ostim Technical University <br>with a passion for building practical, user-focused applications. <br>Currently, I am developing a job applications tracking application <br>to expand my technical portfolio.<br>I am actively exploring advanced AI-assisted development techniques,<br>including 'vibe coding' and Claude code prompting, <br>to optimize software architecture and accelerate workflows.<br>As well as Having Interest in embedded systems and IoT technologies."
 
