@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Shin-kun0/Shin-kun0/blob/11b013da0a405d5adc9586cf9a46947b0b83a037/preview.jpg" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
+  <img src="preview.jpg" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
 </p>
 
 <h1 align="center">💫 About Me</h1>
