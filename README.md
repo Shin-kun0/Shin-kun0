@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="preview.jpg" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" />
-</p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>
+      <img src="preview.img" width="100%" height="220px" />
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">💫 About Me</h1>
 
