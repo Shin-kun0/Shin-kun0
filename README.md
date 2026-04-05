@@ -1,4 +1,4 @@
-![banner]()
+![banner](https://github.com/Shin-kun0/Shin-kun0/blob/8dda889873a8586044537b52c9ed1e37d8aeb879/preview.jpg)
 
 ## 💫 About Me
 
